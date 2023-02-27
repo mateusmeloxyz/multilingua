@@ -1,0 +1,7 @@
+{{- with .Parent}}
+{{partial "breadcrumbs.html" . -}}
+{{- if .Parent -}}
+<span> &gt </span>
+{{- end -}}
+<a href="{{.Permalink}}">{{.LinkTitle}}</a>
+{{- end -}}

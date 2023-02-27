@@ -1,0 +1,14 @@
+{{define "main"}}
+<ul>
+{{range .Site.Sections}}
+    <li>
+        <a href="{{.Permalink}}">
+            {{.LinkTitle}}
+        </a>
+    </li>
+{{end}}
+</ul>
+<p>
+    Page generated with <code>index.html</code>
+</p>
+{{end}}

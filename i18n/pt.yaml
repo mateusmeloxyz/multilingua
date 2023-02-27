@@ -1,0 +1,13 @@
+- id: other_lang
+  translation: "Outros idiomas:"
+
+- id: ship
+  translation:
+    zero: navios
+    one: navio
+    few: navios
+    many: navios
+    other: navios
+
+- id: from_page_context
+  translation: "Quantidade: {{.Params.count}}"

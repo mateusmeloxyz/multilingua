@@ -1,0 +1,4 @@
+baseURL: "http://example.com/"
+title: "Multilingua"
+contentDir: "content"
+theme: "comic"
