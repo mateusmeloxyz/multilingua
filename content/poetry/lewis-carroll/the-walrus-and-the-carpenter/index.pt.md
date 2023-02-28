@@ -1,7 +1,7 @@
 ---
 title: "A Morsa e o Carpinteiro"
 date: 2023-02-25T21:17:47-03:00
-draft: true
+draft: false
 description: TBD
 slug: "a-morsa-e-o-carpinteiro"
 ---
@@ -14,3 +14,5 @@ Aplicava sua melhor arte
 A tornar as ondas coruscantes.  
 E isso era estranho porque  
 Batera meia-noite pouco antes.
+
+![](brinybeach)
